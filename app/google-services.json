@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "536264349113",
+    "project_id": "bible-4eb0d",
+    "storage_bucket": "bible-4eb0d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:536264349113:android:c77e841e1c0018e522d268",
+        "android_client_info": {
+          "package_name": "com.gg.project.bible"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjHRab4vk3c3FLWEv1VuZWBt7I4Vpyzcc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

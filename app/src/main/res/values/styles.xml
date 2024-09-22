@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="StyleTextSplashScreen">
+        <item name="android:textSize">26sp</item>
+        <item name="android:gravity">end</item>
+        <item name="android:layout_marginRight">46dp</item>
+        <item name="android:textColor">@color/descriptionTextColor</item>
+        <item name="android:fontFamily">@font/aboreto</item>
+    </style>
+
+    <style name="StyleTextTitle">
+        <item name="android:textSize">14sp</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textColor">@color/titleTextColor</item>
+        <item name="android:fontFamily">@font/abel</item>
+    </style>
+
+    <style name="StyleTextDescription">
+        <item name="android:textSize">19sp</item>
+        <item name="android:textColor">@color/descriptionTextColor</item>
+        <item name="android:fontFamily">@font/abel</item>
+    </style>
+
+    <style name="StyleTextNavigation">
+        <item name="android:textSize">16sp</item>
+        <item name="android:layout_gravity">start</item>
+        <item name="android:background">@drawable/gradient_background</item>
+        <item name="android:textColor">@color/navigationTextColor</item>
+        <item name="android:fontFamily">@font/abel</item>
+    </style>
+
+
+
+
+
+</resources>
